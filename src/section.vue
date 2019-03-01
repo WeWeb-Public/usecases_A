@@ -54,8 +54,8 @@ export default {
                 type: 'ww-text',
                 data: {
                     text: {
-                        fr_FR: 'Hello World !',
-                        en_GB: 'Hello World !'
+                        fr: 'Hello World !',
+                        en: 'Hello World !'
                     },
                     align: 'center',
                     size: 4,
